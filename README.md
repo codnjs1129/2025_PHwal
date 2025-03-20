@@ -75,11 +75,8 @@ def hello_world():
     print("Hello, World!")
 yaml
 ```
-복사
 
----
-
-### 8. **인용(Quote)**
+### 8. 인용(Quote)
 
 - `>` 기호를 사용하여 인용을 추가합니다.
 
