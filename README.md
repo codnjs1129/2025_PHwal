@@ -87,6 +87,7 @@ markdown
 def hello_world():
     print("Hello, World!")
 yaml
+```
 복사
 
 ---
@@ -95,8 +96,9 @@ yaml
 
 - `>` 기호를 사용하여 인용을 추가합니다.
 
-```markdown
+markdown
 > 이건 인용문입니다.
+
 ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
 9. 수평선(Horizontal Line)
 ---, ***, ___ 등을 사용하여 수평선을 만듭니다.
